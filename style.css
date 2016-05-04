@@ -1,0 +1,136 @@
+.head{
+		
+		background:url('image/header1.jpg');
+		/*background-position:center center;*/
+		background-size:cover;
+		background-position: bottom right, center center, top left;
+		padding-top:5px;
+		color:black;
+		height:700px;
+		overflow:hidden;
+		text-align:center;
+		
+}
+
+.watchNow{
+	
+	height:50px;
+	width:150px;
+	padding:10px;
+	text-align:center;
+	
+}
+.watchNow:after{
+	
+}
+.second{
+	padding:100px;
+	height:
+}
+.second h3{
+	margin:30px 0;
+}
+
+/*protect*/
+.phoneImg{
+	width: 100%;
+}
+.protect{
+	
+}
+
+
+.protect img{
+	overflow:hidden;
+}
+.
+
+/*We are almost*/
+.everywhere	{
+	
+}
+.dropbox{
+	color:#2196f3;
+}
+.apple{
+	coor:gray;
+}
+
+/*Map*/
+
+/*Beautiful interface*/
+.beautiful{
+	text-align:center;
+	padding:100px;
+	
+	
+}
+.mobilePhones img{
+	
+display:flex-row;
+width:19.7%;
+}
+.mobilePhones{
+padding:50px;
+}
+/*GET IT TO YOUR  SMARTPHONE*/
+.NEWPROVIDENCE{
+	background:;
+	margin-top:100px;
+	color:gray;
+	
+}
+
+.GTTYS{
+	background:;
+	margin-top:10px;
+}
+/*Denis*/
+.Denis input{
+	border-radius:20px;
+	margin-top:50px;
+	
+}
+
+
+
+.OR button{
+	border-radius:30px;
+	background:black;
+	color:white;
+	margin-top:10px;
+	
+}
+
+/*UlKit*/
+.container{
+	padding:50px;
+}
+.container .a{
+	opacity:0.4;
+}
+
+.providence{
+	padding:30px;
+}
+
+
+
+.footer{
+	background:gray;
+	padding:20px;
+	color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
